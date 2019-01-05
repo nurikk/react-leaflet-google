@@ -3,7 +3,7 @@
 import GoogleMapsLoader from "google-maps";
 import * as L from "leaflet";
 
-GoogleMapsLoader.VERSION = "3.32";
+GoogleMapsLoader.VERSION = "weekly";
 
 let google;
 
